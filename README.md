@@ -1,4 +1,4 @@
-<img align="right" width="274" height="237" src="https://www.pinclipart.com/picdir/big/571-5718253_golang-gopher-png-clipart.png">
+<img align="right" width="274" height="237" src="./carlos.png">
 
 
 # Hi, I'm Carlos García   👋
