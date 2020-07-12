@@ -1,4 +1,4 @@
-<img align="right" width="274" height="237" src="./carlos.png">
+<img align="right" width="274" height="237" src="https://raw.githubusercontent.com/solrac97gr/solrac97gr/master/carlos.png">
 
 
 # Hi, I'm Carlos García   👋
