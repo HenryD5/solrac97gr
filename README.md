@@ -3,6 +3,8 @@
 
 # Hello World! I am Carlos García 💻
 
+I am always ready to accept suggestions and improvements for my personal projects. Send me a pull request if you want to collaborate with any of my projects.
+
 - 🔭 I'm currently working as a Software Engineer at [Herounit](https://herounit.io/)
 - :earth_americas: I'm from Talara, Perú
 - :video_game: I like to play video games
