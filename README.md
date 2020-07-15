@@ -21,8 +21,4 @@ I am always ready to accept suggestions and improvements for my personal project
 [![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/carlos97gr/)
 
 ## Technologys:
-<img src="https://emojis.slackmojis.com/emojis/images/1454546974/291/golang.png" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="50px">
-<img src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" height="50px">
-<img src="https://i.imgur.com/scrcyJ3.png" height="50px">
-
+<img src="https://www.wut.de/pics/misc/e-505ww-03-grww-000_h220.png" height="30px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" height="30px"><img src="https://seeklogo.com/images/G/gatsby-logo-1A245AD37F-seeklogo.com.png" height="30px"><img src="https://i.imgur.com/scrcyJ3.png" height="30px"><img src="https://nuxtjs.org/logos/nuxt.svg" height="30px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" height="30px"><img src="https://upload.wikimedia.org/wikipedia/en/0/00/IBM_Watson_Logo_2017.png" height="30px">
