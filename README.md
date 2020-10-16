@@ -10,7 +10,7 @@ I am always ready to accept suggestions and improvements for my personal project
 - :video_game: I like to play video games
 - :notes: I like to play guitar
 
-<a href="https://github.com/solrac97gr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solrac97gr&theme=default&hide=css,vue,html,php,csharp" /></a>&nbsp;<a href="https://github.com/solrac97gr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=solrac97gr&show_icons=true&theme=default&line_height=27" alt="solrac97gr's github stats" /></a>
+<a href="https://github.com/solrac97gr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solrac97gr&hide=css,html,php" /></a>&nbsp;<a href="https://github.com/solrac97gr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=solrac97gr&show_icons=true&theme=default&line_height=27" alt="solrac97gr's github stats" /></a>
 
 
 ## Social media :mailbox_with_no_mail:
